@@ -1,0 +1,24 @@
+{
+  "node": {
+    "1ec0ee768335865c5dfd0f825cbf18d78f2210be": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmydoczo%2FMyWorkSpace%2Fgooglemeet%2FGoogleMeet_Nextjs%2Fcomponents%2FUser.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmydoczo%2FMyWorkSpace%2Fgooglemeet%2FGoogleMeet_Nextjs%2Fapp%2Flogin%2Fpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2Fmydoczo%2FMyWorkSpace%2Fgooglemeet%2FGoogleMeet_Nextjs%2Fcomponents%2FUser.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/login/page": "rsc"
+      }
+    },
+    "4ebebff27cc7cca8af541269b986421ea16927cc": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmydoczo%2FMyWorkSpace%2Fgooglemeet%2FGoogleMeet_Nextjs%2Fapp%2Flogin%2Fpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2Fmydoczo%2FMyWorkSpace%2Fgooglemeet%2FGoogleMeet_Nextjs%2Fcomponents%2FUser.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "XgG7DAwgbdV6r2djl+Q6V6K7YnnqecFjx1bqMqHnnqM="
+}

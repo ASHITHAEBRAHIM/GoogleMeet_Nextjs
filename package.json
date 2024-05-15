@@ -1,0 +1,40 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@livekit/components-react": "^2.2.0",
+    "@livekit/components-styles": "^1.0.11",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-label": "^2.0.2",
+    "@supabase/ssr": "latest",
+    "@supabase/supabase-js": "latest",
+    "axios": "^1.6.8",
+    "class-variance-authority": "^0.7.0",
+    "dotenv": "^16.4.5",
+    "geist": "^1.2.1",
+    "livekit-server-sdk": "^2.3.0",
+    "lucide-react": "^0.376.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.51.3",
+    "react-icons": "^5.1.0",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "5.3.3",
+    "zustand": "^4.3.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.5",
+    "@types/react": "18.2.48",
+    "@types/react-dom": "18.2.18",
+    "autoprefixer": "^10.4.19",
+    "encoding": "^0.1.13",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
